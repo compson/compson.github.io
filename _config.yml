@@ -5,7 +5,7 @@ title: kiracomp Blog
 description: kiracomp的个人博客
 keywords: kiracomp,Blog
 author: kiracomp
-footerText: 'Copyright © 2019 kriacomp blog'
+footerText: 'Copyright © 2019 kiracomp blog'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
