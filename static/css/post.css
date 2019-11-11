@@ -133,8 +133,8 @@
 }
 .page-post .table-container {
   overflow: auto;
-  margin: 14px 0;
-  border: 0px solid #dddddd;
+  margin: 0;
+  border: 0;
 }
 .page-post .table-container table {
   margin: 0;
