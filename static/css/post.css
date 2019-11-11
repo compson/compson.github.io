@@ -112,7 +112,6 @@
   background-color: #f5f5f5;
 }
 .page-post table {
-  min-width: 100%;
   max-width: 200%;
   border-collapse: collapse;
   border-spacing: 0;
@@ -133,7 +132,7 @@
   background-color: #f9f9f9;
 }
 .page-post .table-container {
-  overflow: 150%;
+  overflow: 200%;
   margin: 14px 0;
   border: 1px solid #dddddd;
 }
