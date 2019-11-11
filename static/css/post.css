@@ -115,7 +115,7 @@
   min-width: 20%;
   border-collapse: collapse;
   border-spacing: 0;
-  border: 5px solid #dddddd;
+  border: 1px solid #dddddd;
 }
 .page-post tr {
   border-bottom: 1px solid #dddddd;
@@ -134,7 +134,7 @@
 .page-post .table-container {
   overflow: auto;
   margin: 14px 0;
-  border: 1px solid #dddddd;
+  border: 5px solid #dddddd;
 }
 .page-post .table-container table {
   margin: 0;
