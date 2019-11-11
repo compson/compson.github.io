@@ -22,7 +22,7 @@
 }
 .page-post .post > iframe {
   margin: 0;
-  width: 100%;
+  width: 150%;
 }
 .page-post .post h1,
 .page-post .post h2 {
@@ -112,7 +112,7 @@
   background-color: #f5f5f5;
 }
 .page-post table {
-  max-width: 200%;
+  min-width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
   border: 1px solid #dddddd;
@@ -132,7 +132,7 @@
   background-color: #f9f9f9;
 }
 .page-post .table-container {
-  overflow: 200%;
+  overflow: auto;
   margin: 14px 0;
   border: 1px solid #dddddd;
 }
