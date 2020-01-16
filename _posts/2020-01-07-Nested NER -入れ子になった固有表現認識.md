@@ -23,10 +23,11 @@ categories: [nlp]
 
 
 ## 语料库Copus
+>English text<br>
+>>[GENIA3.02](http://www.geniaproject.org/genia-corpus/term-corpus)<br>
 
 
 
-## Nested
 
 
 
